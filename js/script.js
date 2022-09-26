@@ -105,4 +105,24 @@ console.log(multi)
 let div= num1/num2
 
 console.log(div)
+/* 
+1)	Vamos a inicializar la carpeta a través de git init. Cuando lo hago me genera un U (sin seguimiento - untracked). Aún no está agregado el espacio temporal al staging area.
+2)	Configuraremos el usuario: 
+o	git config --global user.name “Damián Rol”
+o	git config --global user.email “damian.rol@bue.edu.ar”
+3)	Con git config --global -e podemos ver todos los datos de la configuración.
+4)	git add * para subir todos los archivos al staging área.
+5)	git commit -m “JavaScript” para subir a mi repo
+Ingreso en https://github.com/
+Una vez dentro de la cuenta crearemos un repositorio público. 
 
+1)	Hacer clic en New y escribir el nombre del repositorio: Clase13, configurarlo como público, dejar el resto como está y hacer clic en Create repository.
+2)	Una vez creado el repositorio me copio el segundo código.
+3)	Copiamos y pegamos esta instrucción en la terminal para configurar el repositorio remoto y presionamos Enter.
+Descargar Clones desde GitHub.
+1)	Comparto el lilnk del repositorio, voy al botón de Code y me copio el link.
+2)	Creo una carpeta en mi PC, botón derecho, Gith Bash Here
+3)	Escribo git clone, botón derecho y Pegar
+4)	Enter y ya tengo el repositorio clonado.
+Matias Gonzalez20:35
+Gracias Igualmente! */
